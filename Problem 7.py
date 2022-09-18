@@ -4,7 +4,6 @@ def PrimeCheck(Number) :
             return False
     return True
 
-#FoundPrime = False
 Primes = 0
 i = 2
 while Primes < 10001:
