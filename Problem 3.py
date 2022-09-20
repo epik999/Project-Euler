@@ -9,4 +9,4 @@ for x in range(2, Number+1) :
                 IsPrime = False
                 break
         if IsPrime == True:
-            print(x, end=' ')
+            print(x, end=', ')
